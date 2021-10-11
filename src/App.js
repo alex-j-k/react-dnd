@@ -15,3 +15,5 @@ function App() {
 }
 
 export default App;
+
+//https://stackoverflow.com/questions/64468843/netlify-deployment-failed-during-stage-building-site-build-script-returned-n
